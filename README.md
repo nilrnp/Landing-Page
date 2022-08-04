@@ -3,4 +3,4 @@
 - The template allows users to add their own text and images through simple changes in the code.
 
 # Template Preview
-https://nilrnp.github.io/Landing-Page/index.html
+
